@@ -37,7 +37,7 @@ input,textarea {
 .clearFix::before,
 .clearFix::after {
     content: "";
-    display: none;
+    display: block;
     visibility: hidden;
     height: 0;
     line-height: 0;
